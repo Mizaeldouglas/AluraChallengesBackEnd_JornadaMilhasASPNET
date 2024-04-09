@@ -1,5 +1,7 @@
 Jornada Milhas API
 ===
+![Captura de Tela 2024-04-08 às 21 40 22](https://github.com/Mizaeldouglas/AluraChallengesBackEnd_JornadaMilhasASPNET/assets/89351018/98d80971-e219-44f2-91ed-fea801a32876)
+
 
 ## Estrutura de Pastas
 ```
