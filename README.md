@@ -4,6 +4,7 @@ Jornada Milhas API
 Projeto de uma API REST completa para gerenciamento de uma loja de roupas, incluindo:
 
 - **Depoimentos:** CRUD completo (Criação, Leitura, Atualização e Exclusão) e tambem mostrar os 3 ultimos depoimentos.
+- **Destinos:** CRUD completo (Criação, Leitura, Atualização e Exclusão) e tambem procurar destinos por QueryParam(destinos/search?name=limeira).
 
 
 
