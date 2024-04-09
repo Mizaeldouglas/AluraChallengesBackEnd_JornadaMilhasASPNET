@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JornadaMilhasApp", "JornadaMilhasApp\JornadaMilhasApp.csproj", "{B91281A3-E843-4A24-91E1-DC6C92E856EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B91281A3-E843-4A24-91E1-DC6C92E856EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B91281A3-E843-4A24-91E1-DC6C92E856EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B91281A3-E843-4A24-91E1-DC6C92E856EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B91281A3-E843-4A24-91E1-DC6C92E856EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
