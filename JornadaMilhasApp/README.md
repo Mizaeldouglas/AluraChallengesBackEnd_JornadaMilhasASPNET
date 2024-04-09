@@ -9,6 +9,7 @@ Projeto de uma API REST completa para gerenciamento de uma loja de roupas, inclu
 
 ## Screenshots
 
+![Captura de Tela 2024-04-08 às 21 40 22](https://github.com/Mizaeldouglas/AluraChallengesBackEnd_JornadaMilhasASPNET/assets/89351018/42bf5459-e879-4a03-bb3c-5b3db404e7b4)
 
 
 ## Stack utilizada
